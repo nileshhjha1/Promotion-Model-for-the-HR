@@ -32,7 +32,7 @@ The dataset contains employee details such as department, region, education, gen
 | Extra Trees (Base)          | **0.45**           | 0.42                | 0.48             | 0.900    |
 | Extra Trees (Tuned)         | 0.44               | 0.38                | 0.52             | 0.890    |
 |  XGBClassifier with  SMOTE  | 0.47               | 0.41                | 0.54             | 0.897    |
-|  XGBClassifier without SMOTE| 0.47               | 0.41                | 0.54             | 0.897    |
+|  XGBClassifier without SMOTE| 0.51               | 0.87                | 0.36             | 0.941    |
 
 ## Conclusion
 

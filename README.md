@@ -55,8 +55,6 @@ The dataset contains employee details such as department, region, education, gen
 
 ## Contact
 
-For questions or feedback, please reach out to \[Your Name or Email].
+For questions or feedback, please reach out to nileshnirmaljha@gmail.com
 
 ---
-
-If you want, I can also help you write a sample script or detailed instructions for running the code!
